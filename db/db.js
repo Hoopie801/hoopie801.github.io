@@ -7,11 +7,11 @@ export default {
 			},
 			{
 				skillName: "Java",
-				percentage: "80",
+				percentage: "50",
 			},
 			{
 				skillName: "HTML",
-				percentage: "80",
+				percentage: "50",
 			},
 			{
 				skillName: "CSS",
@@ -43,22 +43,11 @@ export default {
 				skillName: "Unreal",
 				percentage: "50",
 			},
-			{
-				skillName: "GoDot",
-				percentage: "20",
-			},
+			
 		],
 		libraries: [
 			{
 				skillName: "STL",
-				percentage: "80",
-			},
-			{
-				skillName: "SpongeAPI 5/7",
-				percentage: "80",
-			},
-			{
-				skillName: "Forge 1.7/1.12",
 				percentage: "80",
 			},
 			{
@@ -77,22 +66,11 @@ export default {
 				skillName: "DX11",
 				percentage: "50",
 			},
-			{
-				skillName: "Spigot",
-				percentage: "50",
-			},
-			{
-				skillName: "Bukkit",
-				percentage: "50",
-			},
+			
 		],
 		backend: [
 			{
 				skillName: "SQL",
-				percentage: "80",
-			},
-			{
-				skillName: "S/FTP",
 				percentage: "80",
 			},
 			{
@@ -110,16 +88,12 @@ export default {
 				percentage: "80",
 			},
 			{
-				skillName: "Asana",
-				percentage: "80",
-			},
-			{
 				skillName: "JIRA",
 				percentage: "50",
 			},
 			{
 				skillName: "Notion",
-				percentage: "20",
+				percentage: "80",
 			},
 		],
 		environments: [
@@ -132,12 +106,12 @@ export default {
 				percentage: "80",
 			},
 			{
-				skillName: "IntelliJ IDEA",
+				skillName: "Microsoft SQL Server Management Studio",
 				percentage: "80",
 			},
 			{
 				skillName: "Illustrator",
-				percentage: "80",
+				percentage: "50",
 			},
 			{
 				skillName: "Photoshop",
@@ -148,77 +122,8 @@ export default {
 	projects: {
 		professional: [
 			{
-				projectName: "FossilTech",
-				image: "",
-				summary:
-					"Fossiltech is a Minecraft modpack/dedicated server experience that I have created as a game overhaul of Minecraft. The gameloop involves mining for fossils and genetically engineering the extracted DNA from the fossils to create living dinosaurs, which are then taken care of in a jurrasic park-style system by the player. I created a suite of proprietary client and server-side features using Forge API 1.12.2, and SpongeAPI 7 in Java, alongside graphical and literary marketing material to promote the modpack. The server has approx. 2,400+ unique logins as of 08/03/2022 - full-scale marketing is yet to take place.",
-				preview: "https://www.technicpack.net/modpack/complex-gaming-fossiltech",
-				techStack: [
-					"Java",
-					"ForgeAPI 1.12",
-					"SpongeAPI 7",
-					"Photoshop",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "Kouros.uk",
-				image: "images/kouros.png",
-				summary:
-					"Website created for a local Greek taverna in my home-town, featuring mobile-first design, multiple expansive pages, online Facebook Messenger chat integration, and more.",
-				preview: "https://kouros.uk/",
-				techStack: [
-					"HTML",
-					"CSS",
-				],
-			},
-			{
-				projectName: "Advanced Wizardry",
-				image: "",
-				summary:
-					"Advanced Wizardry is a Minecraft modpack/dedicated server that I have been overseeing all operations of since January 2020. The modpack currently has 177,000+ unique logins, and 790,000+ client runs as of 08/03/2022.",
-				preview: "https://www.technicpack.net/modpack/advanced-wizardry",
-				techStack: [
-					"Java",
-					"ForgeAPI 1.7",
-					"Bukkit",
-					"Spigot",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "Voidpack 2",
-				image: "",
-				summary:
-					"Voidpack 2 is a Minecraft 'Skyblock' modpack/dedicated server that I have been overseeing all operations of since January 2020. The modpack currently has 536,000+ unique logins, and 2,000,000+ client runs as of 08/03/2022.",
-				preview: "https://www.technicpack.net/modpack/voidpack-2",
-				techStack: [
-					"Java",
-					"ForgeAPI 1.7",
-					"Bukkit",
-					"Spigot",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "Wizard Academy",
-				image: "",
-				summary:
-					"Wizard Academy is a Minecraft 'Anarchy Factions' modpack/dedicated server that I have been overseeing all operations of since January 2020. The modpack currently has 310,000+ unique logins, and 1,000,000+ client runs as of 08/03/2022.",
-				preview: "https://www.technicpack.net/modpack/wizard-academy",
-				techStack: [
-					"Java",
-					"ForgeAPI 1.7",
-					"Bukkit",
-					"Spigot",
-					"IntelliJ IDEA",
-				],
-			},
-		],
-		personal: [
-			{
-				projectName: "Dungeon Fight",
-				image: "",
+				projectName: "Cabin of Creepy Crawlies",
+				image: "images/cabin1pt2.png",
 				summary:
 					"Text-based dungeon fighter game built in Java as a first attempt at a java-based video game.",
 				preview: "https://github.com/SuperslowJelly/Dungeon-Fight",
@@ -226,121 +131,16 @@ export default {
 					"Java",
 				],
 			},
+		],
+		personal: [
 			{
-				projectName: "Leaderboards",
-				image: "",
+				projectName: "Cabin of Creepy Crawlies",
+				image: "images/cabin1pt2.png",
 				summary:
-					"SpongeForge 1.12.2 plugin built in Java which tracks a wide range of player statistics, such as PvP kills, deaths, time played, and more. Stats are then posted to global leaderboards available via text by command, or in-game using in-world holograms. Players maintaining top positions can be configured to receive rewards, such as unique in-game chat prefixes or cosmetic items.",
-				preview: "",
+					"A Game Jam project I took and developed further in my own time. Cabin of Creepy Crawlies is a 16 bit Roguelike puzzle game where you have to navigate the Cabin, whilst simulatneously dodging the various enemies introduced during the levels. A simple premise but provided to be good practice for level design and 2D tile mapping - I am currently still working on this project to further develop my level design skills. For this project I worked on player movement and level design including the layout of the prototype levels for testing to ensure the enemies all provided a new level of difficulty to the game.",
+				preview: "https://github.com/SuperslowJelly/Dungeon-Fight",
 				techStack: [
 					"Java",
-					"SpongeAPI 7",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "DiscordBridge",
-				image: "",
-				summary:
-					"SpongeForge 1.12.2/1.10.2 / Bukkit / Spigot plugin built in Java which bridges multiple in-game servers to Discord servers using a single decentralised JDA-based Discord bot. The plugin can be configured to forward in-game chat to discord channels and vice versa, display player counts in discord, post server status updates to discord, and more. The plugin also provides extra functionality between game servers by providing a global in-game chat accessible from all servers, and a global player list so players can see where their friends are playing using the Lilypad proxy API.",
-				preview: "",
-				techStack: [
-					"Java",
-					"SpongeAPI 7",
-					"SpongeAPI 5",
-					"Bukkit",
-					"Spigot",
-					"JDA",
-					"LilypadAPI",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "WarpSigns",
-				image: "",
-				summary:
-					"SpongeForge 1.12.2 plugin built in Java which allows players to create in-game signs that other players can warp to through a command or a GUI menu.",
-				preview: "",
-				techStack: [
-					"Java",
-					"SpongeAPI 7",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "TamerTiers",
-				image: "",
-				summary:
-					"SpongeForge 1.12.2 plugin built in Java which provides extra functionality to the 'Fossils & Archaeology' mod by providing an EXP-based progression system to players. EXP is gained by interacting with the in-game dinosaurs and completing configurable objectives. Accrued levels award players with access to more dinosaurs, one-time rewards, and other configurable bonuses. The plugin also provides support for a premium season pass, allowing for extra rewards and purpose-built decorative armour sets that are modelled in BlockBench.",
-				preview: "",
-				techStack: [
-					"Java",
-					"SpongeAPI 7",
-					"IntelliJ IDEA",
-					"BlockBench",
-				],
-			},
-			{
-				projectName: "AreaRenting",
-				image: "",
-				summary:
-					"SpongeForge 1.12.2 plugin built in Java which provides players with the ability to declare 'rentable' areas of in-game land, which other players can then rent. The plugin provides a suite of tools for plot management via in-game GUIs, and can be used by server administrators to create plot market systems for community use.",
-				preview: "",
-				techStack: [
-					"Java",
-					"SpongeAPI 7",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "JNDIDetector",
-				image: "",
-				summary:
-					"SpongeForge 1.12.2/1.10.2 / Bukkit / Spigot plugin built in Java which detects the Log4J JNDI exploit, and provides a configurable list of commands to run on detection, allowing server administrators to automatically detect and deal with players who attempt to abuse the exploit.",
-				preview: "",
-				techStack: [
-					"Java",
-					"SpongeAPI 7",
-					"SpongeAPI 5",
-					"Bukkit",
-					"Spigot",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "PrefixManager",
-				image: "",
-				summary:
-					"SpongeForge 1.12.2 plugin built in Java which gives players the ability to pick from a list of accrued in-game chat prefixes and switch between them at will.",
-				preview: "https://github.com/SuperslowJelly/PrefixManager",
-				techStack: [
-					"Java",
-					"SpongeAPI 7",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "GUIShops",
-				image: "",
-				summary:
-					"SpongeForge 1.12.2 plugin built in Java which allows server administrators to set up GUI-based server shops that allow players to buy and sell their items to/from the server.",
-				preview: "",
-				techStack: [
-					"Java",
-					"SpongeAPI 7",
-					"IntelliJ IDEA",
-				],
-			},
-			{
-				projectName: "PlatePrefix",
-				image: "",
-				summary:
-					"SpongeForge 1.12.2 plugin built in Java which adjusts player namebars to display their rank, and change the colour of their name based on the given configuration.",
-				preview: "",
-				techStack: [
-					"Java",
-					"SpongeAPI 7",
-					"IntelliJ IDEA",
 				],
 			},
 		],
@@ -349,7 +149,7 @@ export default {
 				projectName: "Labyrinth",
 				image: "images/labyrinth.png",
 				summary:
-				"Labyrinth is a 2D pixel art top-down dungeon crawler for PS4 using a fully-proprietary data-driven 2D engine and renderer that has been built from scratch. This project includes more complex algorithms such as bi-directional A* pathfinding, enemy AI behaviour trees, entity component systems, real-time collisions, and other low-level engine features. The player can choose between a melee class and a ranged class which come with their own unique attacks and abilities. They can also customise their character's appearance by choosing one of 9 skins. The game itself follows the player through 4 uniquely designed levels depicting the floors of a castle, battling goblins along the way, ending in a labyrinth and a Minotaur boss. I will be porting this game to PC to accommodate for my master's dissertation study, in which I will create a consolidated player skill quantification-influenced procedural world generation system.",
+				"Labyrinth is a 2D pixel art top-down dungeon crawler for PS4 using a fully-proprietary data-driven 2D engine and renderer that has been built from scratch. This project includes more complex algorithms such as bi-directional A* pathfinding, enemy AI behaviour trees, entity component systems, real-time collisions, and other low-level engine features. The player can choose between a melee class and a ranged class which come with their own unique attacks and abilities. They can also customise their character's appearance by choosing one of 9 skins. The game itself follows the player through 4 uniquely designed levels depicting the floors of a castle, battling goblins along the way, ending in a labyrinth and a Minotaur boss. My biggest contribution to the game was the behaviour tree AI, ",
 				preview: "https://youtu.be/67PO-1RfvE0",
 				techStack: [
 					"C++",
@@ -361,10 +161,22 @@ export default {
 				],
 			},
 			{
-				projectName: "\"Realistic Tower Defence\"",
-				image: "",
+				projectName: "Temple of The Sun",
+				image: "temple.png",
 				summary:
-					"Realistic Tower Defence is a tower defence game built for PC in Unity as part of my 2nd academic year studying Computer Science for Games at Sheffield Hallam University for a group project with one other programmer, and 3 artists. A trailer video is linked to this project card with a preview.",
+					"My 2nd year university project, Temple of The Sun. I was in charge of Game Design and making sure the group worked together well. We decided to go for a mirrors edge meets tomb raider style with some basic parkour elements and platforming inside of an ancient temple. The game consists of 3 levels, with your time being your score with a fully functioning leaderboard that updates if you complete the game. Level 1 is mainly jumping puzzles without any of the parkour elements. Level 2 requires the player to notice patterns on the floor to save them from their demise along with some wall climbing using the E key and finally, level 3 is a parkour level that consists of wall running, climbing and jumping to get to the end of the game.",
+				preview: "https://youtu.be/8BcEseg0My4",
+				techStack: [
+					"C#",
+					"Unity",
+					"Visual Studio",
+				],
+			},
+			{
+				projectName: "\"Brum Brum\"",
+				image: "images/brumbrum.png",
+				summary:
+					"This is a group university project called Brum Brum. Our goal was a top down vehicular shooter, we were advised to create a space invaders clone but I didn’t want to settle for that so I lead my team into designing a post apocalyptic top down racing game with shooter elements. We were inspired by Micro Machines and the Mad Max franchise to create the look and feel for our game. The player controls the car by aiming where they would like the car to go with the cursor, they can click to shoot enemy vehicles – killing these takes time off the clock so you can achieve a better score! The small enemy cars keep respawning until lap 2, where a hovering boss truck spawns and the player can eventually kill this boss too – granting a much greater time reduction. The enemies can deploy barrels to slow down the player and we have a catch-up mechanic implemented so they don’t just race off. During production of our game, I worked on the camera and player controls including; driving, shooting and interacting with the environment. ",
 				preview: "https://youtu.be/8BcEseg0My4",
 				techStack: [
 					"C#",
@@ -376,28 +188,20 @@ export default {
 	},
 	experience: [
 		{
-			title: "Complex Gaming FTB.",
-			duration: "August 2017 - Present",
-			subtitle: "Lead Network Manager",
+			title: "DB Cargo UK",
+			duration: "June 2020",
+			subtitle: "IT Support and Development",
 			details: [
 				"Lead manager of any and all operations of the 'FTB' portion of the MC-Complex network.",
-				"Game-server creation, maintenance, and upkeep.",
-				"Java-based mod/plugin development, patching, and porting.",
-				"GO-based Discord bot development and hosting.",
-				"'Modpack' creation and upkeep.",
-				"Staff management.",
-				"Community management.",
-				"Multimedia production.",
-				"Voxel-based 3d design.",
-				"And more...",
+				
 			],
 			tags: [
-				"Java",
-				"GO",
-				"SpongeAPI 5/7",
-				"ForgeAPI",
-				"Bukkit",
-				"Spigot",
+				"SQL",
+				"CMD",
+				"Orchestrator",
+				"TOPS2000",
+				"Grafana",
+				"Microsoft SQL Server Management Tool",
 			],
 			icon: "group",
 		},

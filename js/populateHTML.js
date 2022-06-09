@@ -227,7 +227,6 @@ populateSkills(data.skills.backend, "skills-backend");
 populateSkills(data.skills.versionControl, "skills-versioncontrol");
 populateSkills(data.skills.environments, "skills-environments");
 
-populateProjects(data.projects.professional, "professional-projects");
 populateProjects(data.projects.personal, "personal-projects");
 populateProjects(data.projects.university, "university-projects");
 
