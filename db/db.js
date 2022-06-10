@@ -192,7 +192,7 @@ export default {
 			duration: "June 2020",
 			subtitle: "IT Support and Development",
 			details: [
-				"Lead manager of any and all operations of the 'FTB' portion of the MC-Complex network.",
+				"",
 				
 			],
 			tags: [
@@ -220,7 +220,7 @@ export default {
 				"Object-Oriented Programming for Games",
 				"Professional Development Project",
 				"Programming for Games",
-			  "Software-Hardware Optimisation Techniques",
+			    "Software-Hardware Optimisation Techniques",
 				"Web Application Development",
 				"Fundamentals of Computer Architecture",
 				"Fundamentals of Programming",
@@ -232,6 +232,7 @@ export default {
 			tags: [
 				"DX12/11 Development",
 				"Sony/PS4 Development",
+				"Advanced C++ usage such as STL usage and further advanced techniques",
 				"Object-Oriented Programming",
 				"Data-Driven Programming",
 				"Template-Driven Metaprogramming",
@@ -242,41 +243,15 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Level 3 Extended Diploma in Information Technology",
+			title: "A-Levels",
 			duration: "2016-2018",
-			subtitle: "Buxton & Leek College, Derbyshire",
+			subtitle: "Bilborough College, Nottingham",
 			details: [
-				"Completed with a grade of D*/D*/D* (equivalent to 3xA*).",
-				"Held the position of student representative for Information Technology for the duration of study.",
-				"Studied the following modules:",
-				"Communication and Employability Skills for IT",
-				"Computer Systems",
-				"Information Systems",
-				"Software Design and Development",
-				"Computer Networks",
-				"Event Driven Programming",
-				"Computer Animation",
-				"Website Production",
-				"Spreadsheet Modelling",
-				"Communication Technologies",
-				"Systems Analysis and Design",
-				"Computer Game Design",
-			  "Database Design",
-				"Developing Computer Games",
-				"Digital Graphics",
-				"Multimedia Design",
-				"Organised Systems Security",
-				"Project Planning with IT",
-				"Maths for IT Practitioners",
+				"Passed all A-Levels such as an A in Electronics and B in Computer Science",
 			],
 			tags: [
 				"Professionalism Training",
-				"Development",
-				"Multimedia Production",
-				"IT Support",
-				"Employability Training",
-				"Network Studies",
-				"ICT-Centric Study"
+				
 			],
 			icon: "book",
 		},
@@ -287,7 +262,7 @@ export default {
 			data: [
 				{
 					text: "GitHub",
-					link: "https://github.com/SuperslowJelly",
+					link: "https://github.com/hoopie801",
 				},
 			],
 		},
@@ -309,7 +284,7 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/chae-taylor-001/",
+					link: "https://www.linkedin.com/in/joshua-long-58412518a/",
 				},
 			],
 		},
