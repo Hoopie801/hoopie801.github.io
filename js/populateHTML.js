@@ -5,7 +5,7 @@ function populateSkills(items, id) {
 	for (let i = 0; i < items.length; i++) {
 		let h3 = document.createElement("h3");
 		h3.innerHTML = items[i].skillName;
-		if (items[i].percentage >= 80) h3.innerHTML += " <span style=\"color: #02c39a; float: right; font-size: 12.5px; letter-spacing: 0\">ADVANCED</span>";
+		if (items[i].percentage >= 80) h3.innerHTML += " <span style=\"color: #03d86e; float: right; font-size: 12.5px; letter-spacing: 0\">ADVANCED</span>";
 		else if (items[i].percentage >= 50) h3.innerHTML += " <span style=\"color: #f9bf3f; float: right; font-size: 12.5px; letter-spacing: 0\">INTERMEDIATE</span>";
 		else h3.innerHTML += " <span style=\"color: #2c98f0; float: right; font-size: 12.5px; letter-spacing: 0\">BEGINNER</span>";
 
@@ -227,6 +227,7 @@ populateSkills(data.skills.backend, "skills-backend");
 populateSkills(data.skills.versionControl, "skills-versioncontrol");
 populateSkills(data.skills.environments, "skills-environments");
 
+populateProjects(data.projects.professional, "professional-projects");
 populateProjects(data.projects.personal, "personal-projects");
 populateProjects(data.projects.university, "university-projects");
 

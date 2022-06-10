@@ -6,6 +6,17 @@ export default {
 				percentage: "80",
 			},
 			{
+				skillName: "VB.NET",
+				percentage: "80",
+			},
+			{
+				skillName: "CSS",
+				percentage: "80",
+			},{
+				skillName: "Python",
+				percentage: "80",
+			},
+			{
 				skillName: "Java",
 				percentage: "50",
 			},
@@ -14,23 +25,11 @@ export default {
 				percentage: "50",
 			},
 			{
-				skillName: "CSS",
-				percentage: "80",
-			},
-			{
 				skillName: "PHP",
 				percentage: "50",
 			},
 			{
 				skillName: "C#",
-				percentage: "50",
-			},
-			{
-				skillName: "JavaScript",
-				percentage: "50",
-			},
-			{
-				skillName: "Python",
 				percentage: "50",
 			},
 		],
@@ -64,7 +63,7 @@ export default {
 			},
 			{
 				skillName: "DX11",
-				percentage: "50",
+				percentage: "80",
 			},
 			
 		],
@@ -74,8 +73,8 @@ export default {
 				percentage: "80",
 			},
 			{
-				skillName: "SSH",
-				percentage: "50",
+				skillName: "CMD",
+				percentage: "80",
 			},
 		],
 		versionControl: [
@@ -117,18 +116,23 @@ export default {
 				skillName: "Photoshop",
 				percentage: "50",
 			},
+			{
+				skillName: "3DS Max",
+				percentage: "50",
+			},
 		],
 	},
 	projects: {
 		professional: [
 			{
-				projectName: "Cabin of Creepy Crawlies",
-				image: "images/cabin1pt2.png",
+				projectName: "Level Design for Unannounced Sci-Fi Game",
+				image: "images/moodboard.png",
 				summary:
-					"Text-based dungeon fighter game built in Java as a first attempt at a java-based video game.",
-				preview: "https://github.com/SuperslowJelly/Dungeon-Fight",
+					"I created this post apocalyptic sci-fi desert whitebox as a level for an unannounced sci-fi game, my idea behind it was a wasteland survivor city made out of shipping containers and scrap technology. Using a crashed space ship, the 'ribcage' of a giant robot and with a faint dystopian city leading from an abandoned highway off into the distance. I felt like trying to make it feel as much of a graveyard as possible with the skeletal-like robot bodies rusting all around.",
+				preview: "https://www.youtube.com/watch?v=sSk21Qp8J0c&ab_channel=Hoopie801",
 				techStack: [
-					"Java",
+					"Unreal Engine",
+					"Level Design",
 				],
 			},
 		],
@@ -138,9 +142,10 @@ export default {
 				image: "images/cabin1pt2.png",
 				summary:
 					"A Game Jam project I took and developed further in my own time. Cabin of Creepy Crawlies is a 16 bit Roguelike puzzle game where you have to navigate the Cabin, whilst simulatneously dodging the various enemies introduced during the levels. A simple premise but provided to be good practice for level design and 2D tile mapping - I am currently still working on this project to further develop my level design skills. For this project I worked on player movement and level design including the layout of the prototype levels for testing to ensure the enemies all provided a new level of difficulty to the game.",
-				preview: "https://github.com/SuperslowJelly/Dungeon-Fight",
+				preview: "",
 				techStack: [
-					"Java",
+					"Unity",
+					"C#",
 				],
 			},
 		],
@@ -149,7 +154,7 @@ export default {
 				projectName: "Labyrinth",
 				image: "images/labyrinth.png",
 				summary:
-				"Labyrinth is a 2D pixel art top-down dungeon crawler for PS4 using a fully-proprietary data-driven 2D engine and renderer that has been built from scratch. This project includes more complex algorithms such as bi-directional A* pathfinding, enemy AI behaviour trees, entity component systems, real-time collisions, and other low-level engine features. The player can choose between a melee class and a ranged class which come with their own unique attacks and abilities. They can also customise their character's appearance by choosing one of 9 skins. The game itself follows the player through 4 uniquely designed levels depicting the floors of a castle, battling goblins along the way, ending in a labyrinth and a Minotaur boss. My biggest contribution to the game was the behaviour tree AI, ",
+				"<b>AWARD WINNING</b> Labyrinth is a 2D pixel art top-down dungeon crawler for PS4 using a fully-proprietary data-driven 2D engine and renderer that has been built from scratch. This project includes more complex algorithms such as bi-directional A* pathfinding, enemy AI behaviour trees, entity component systems, real-time collisions, and other low-level engine features. The player can choose between a melee class and a ranged class which come with their own unique attacks and abilities. They can also customise their character's appearance by choosing one of 9 skins. The game itself follows the player through 4 uniquely designed levels depicting the floors of a castle, battling goblins along the way, ending in a labyrinth and a Minotaur boss. My biggest contribution to the game was the behaviour tree AI. Labyrinth has won 2 first place awards for Best Tech and Best Team at the GameRepublic Showcase of 2022!",
 				preview: "https://youtu.be/67PO-1RfvE0",
 				techStack: [
 					"C++",
@@ -162,7 +167,7 @@ export default {
 			},
 			{
 				projectName: "Temple of The Sun",
-				image: "temple.png",
+				image: "imagestemple.png",
 				summary:
 					"My 2nd year university project, Temple of The Sun. I was in charge of Game Design and making sure the group worked together well. We decided to go for a mirrors edge meets tomb raider style with some basic parkour elements and platforming inside of an ancient temple. The game consists of 3 levels, with your time being your score with a fully functioning leaderboard that updates if you complete the game. Level 1 is mainly jumping puzzles without any of the parkour elements. Level 2 requires the player to notice patterns on the floor to save them from their demise along with some wall climbing using the E key and finally, level 3 is a parkour level that consists of wall running, climbing and jumping to get to the end of the game.",
 				preview: "https://youtu.be/8BcEseg0My4",
@@ -184,15 +189,47 @@ export default {
 					"Visual Studio",
 				],
 			},
+			{
+				projectName: "\"Epitome of Boxes\"",
+				image: "images/epitome.png",
+				summary:
+					"This was a solo project I created during my studies with some set restrictions such as map size – this was to ensure quality over quantity. I created a small shooter FPS game that used verticality, level design and creative ways to increase the difficulty over time that weren’t just “more enemies”. There are 3 types of enemies in my game, Fliers, Patrollers and Chasers. The Fliers spawn overhead every 30 seconds, they fire a beam below them to kill you, the only way to destroy them is by using one of 2 pressure pads that blow them up. After you’ve used both pads, they will just keep spawning. Patrollers patrol the lower floor and will run towards you if they see you and Chasers are constantly chasing you all around the map. At certain time intervals, parts of the map start disappearing – preventing passage in some areas. Your score is how long you last with a leader board to see how you fare against your friends.",
+				preview: "",
+				techStack: [
+					"C#",
+					"Unity",
+					"Visual Studio",
+				],
+			},
 		],
 	},
 	experience: [
 		{
-			title: "DB Cargo UK",
-			duration: "June 2020",
-			subtitle: "IT Support and Development",
+			title: "Steel Minions",
+			duration: "June 2022",
+			subtitle: "Designed and Developer on Labyrinth",
 			details: [
-				"",
+				"Me and another member of my team from university have been offered an exciting position working part time for a short duration over summer to continue working on our game 'Labyrinth' in order to fully complete the game and work towards finalising a publishable version.",
+			],
+			tags: [
+				"SQL",
+				"CMD",
+				"Orchestrator",
+				"TOPS2000",
+				"Grafana",
+				"Microsoft SQL Server Management Tool",
+				"SSRS",
+				"C++",
+				"C#",
+			],
+			icon: "group",
+		},
+		{
+			title: "DB Cargo UK",
+			duration: "June 2020 - June 2021",
+			subtitle: "IT Support and Development Placement",
+			details: [
+				"Provided day to day second line support for internally developed and third-party products. Worked extremely closely with the technical support group that find better and more efficient ways of working - an example is that I created some automated tasks using DB Cargo's orchestrator software that was saving them a large amount of money per anum. Interpreted user stories in the Team Foundation Server and evolve these into solid problem understanding in order to implement software functionality and bug fixes. Managed SQL server databases and developed reports using SSRS. I also finished development on a large scale database front-end project that was being created year on year by numerous placement students before me, this involved getting used to large scale codebases as well as modifying and adapting previous code created by previous placement students. I worked collaboratively on this project with another placement student and we finished all of the requirements set in record time before leaving our positions, this piece of software is now being used by the company routinely.",
 				
 			],
 			tags: [
@@ -202,6 +239,9 @@ export default {
 				"TOPS2000",
 				"Grafana",
 				"Microsoft SQL Server Management Tool",
+				"SSRS",
+				"C++",
+				"C#",
 			],
 			icon: "group",
 		},
@@ -232,7 +272,7 @@ export default {
 			tags: [
 				"DX12/11 Development",
 				"Sony/PS4 Development",
-				"Advanced C++ usage such as STL usage and further advanced techniques",
+				"Advanced C++",
 				"Object-Oriented Programming",
 				"Data-Driven Programming",
 				"Template-Driven Metaprogramming",
