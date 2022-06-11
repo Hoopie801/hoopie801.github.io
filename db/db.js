@@ -54,6 +54,10 @@ export default {
 				percentage: "80",
 			},
 			{
+				skillName: "DX11",
+				percentage: "80",
+			},
+			{
 				skillName: "PS4",
 				percentage: "50",
 			},
@@ -61,10 +65,7 @@ export default {
 				skillName: "DX12",
 				percentage: "50",
 			},
-			{
-				skillName: "DX11",
-				percentage: "80",
-			},
+			
 			
 		],
 		backend: [
@@ -87,13 +88,14 @@ export default {
 				percentage: "80",
 			},
 			{
-				skillName: "JIRA",
-				percentage: "50",
-			},
-			{
 				skillName: "Notion",
 				percentage: "80",
 			},
+			{
+				skillName: "JIRA",
+				percentage: "50",
+			},
+			
 		],
 		environments: [
 			{
@@ -154,7 +156,7 @@ export default {
 				projectName: "Labyrinth",
 				image: "images/labyrinth.png",
 				summary:
-				"<b>AWARD WINNING</b> Labyrinth is a 2D pixel art top-down dungeon crawler for PS4 using a fully-proprietary data-driven 2D engine and renderer that has been built from scratch. This project includes more complex algorithms such as bi-directional A* pathfinding, enemy AI behaviour trees, entity component systems, real-time collisions, and other low-level engine features. The player can choose between a melee class and a ranged class which come with their own unique attacks and abilities. They can also customise their character's appearance by choosing one of 9 skins. The game itself follows the player through 4 uniquely designed levels depicting the floors of a castle, battling goblins along the way, ending in a labyrinth and a Minotaur boss. My biggest contribution to the game was the behaviour tree AI. Labyrinth has won 2 first place awards for Best Tech and Best Team at the GameRepublic Showcase of 2022!",
+				"<b>AWARD WINNING</b> Labyrinth is a 2D pixel art top-down dungeon crawler for PS4 using a fully-proprietary data-driven 2D engine and renderer that has been built from scratch. This project includes more complex algorithms such as bi-directional A* pathfinding, enemy AI behaviour trees, entity component systems, real-time collisions, and other low-level engine features. The player can choose between a melee class and a ranged class which come with their own unique attacks and abilities. They can also customise their character's appearance by choosing one of 9 skins. The game itself follows the player through 4 uniquely designed levels depicting the floors of a castle, battling goblins along the way, ending in a labyrinth and a Minotaur boss. My biggest contribution to the game was the behaviour tree AI and the level design/creation. Labyrinth has won 2 first place awards for Best Tech and Best Team at the GameRepublic Showcase of 2022!",
 				preview: "https://youtu.be/67PO-1RfvE0",
 				techStack: [
 					"C++",
@@ -162,7 +164,6 @@ export default {
 					"Visual Studio",
 					"RapidJSON",
 					"Tiled Editor",
-					"JuiceFX",
 				],
 			},
 			{
@@ -206,21 +207,17 @@ export default {
 	experience: [
 		{
 			title: "Steel Minions",
-			duration: "June 2022",
-			subtitle: "Designed and Developer on Labyrinth",
+			duration: "June 2022 - Present",
+			subtitle: "Lead Designer and Developer on Labyrinth",
 			details: [
 				"Me and another member of my team from university have been offered an exciting position working part time for a short duration over summer to continue working on our game 'Labyrinth' in order to fully complete the game and work towards finalising a publishable version.",
 			],
 			tags: [
-				"SQL",
-				"CMD",
-				"Orchestrator",
-				"TOPS2000",
-				"Grafana",
-				"Microsoft SQL Server Management Tool",
-				"SSRS",
 				"C++",
-				"C#",
+				"PS4",
+				"Visual Studio",
+				"RapidJSON",
+				"Tiled Editor",
 			],
 			icon: "group",
 		},
@@ -287,7 +284,7 @@ export default {
 			duration: "2016-2018",
 			subtitle: "Bilborough College, Nottingham",
 			details: [
-				"Passed all A-Levels such as an A in Electronics and B in Computer Science",
+				"I recieved 3 A-Levels from my studies with my top grades being in Electronics with an A and Computer Science with a B",
 			],
 			tags: [
 				"Professionalism Training",
