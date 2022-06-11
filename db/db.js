@@ -63,7 +63,7 @@ export default {
 			},
 			{
 				skillName: "PS4",
-				percentage: "50",
+				percentage: "80",
 			},
 			{
 				skillName: "DX12",
