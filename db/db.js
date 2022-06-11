@@ -21,7 +21,7 @@ export default {
 				percentage: "80",
 			},
 			{
-				skillName: "Java",
+				skillName: "JavaScript",
 				percentage: "80",
 			},
 			{
