@@ -12,9 +12,6 @@ export default {
 			{
 				skillName: "CSS",
 				percentage: "80",
-			},{
-				skillName: "Python",
-				percentage: "80",
 			},
 			{
 				skillName: "ASM",
@@ -23,6 +20,10 @@ export default {
 			{
 				skillName: "JavaScript",
 				percentage: "80",
+			},
+			{
+				skillName: "Python",
+				percentage: "50",
 			},
 			{
 				skillName: "HTML",
