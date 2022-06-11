@@ -17,6 +17,10 @@ export default {
 				percentage: "80",
 			},
 			{
+				skillName: "ASM",
+				percentage: "80",
+			},
+			{
 				skillName: "Java",
 				percentage: "50",
 			},
@@ -287,8 +291,8 @@ export default {
 				"I recieved 3 A-Levels from my studies with my top grades being in Electronics with an A and Computer Science with a B",
 			],
 			tags: [
-				"Professionalism Training",
-				
+				"Assembly Code",
+				"VB.NET",				
 			],
 			icon: "book",
 		},
