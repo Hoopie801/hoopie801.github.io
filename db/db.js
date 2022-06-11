@@ -22,7 +22,7 @@ export default {
 			},
 			{
 				skillName: "Java",
-				percentage: "50",
+				percentage: "80",
 			},
 			{
 				skillName: "HTML",
@@ -115,6 +115,10 @@ export default {
 				percentage: "80",
 			},
 			{
+				skillName: "Grafana",
+				percentage: "50",
+			},
+			{
 				skillName: "Illustrator",
 				percentage: "50",
 			},
@@ -124,7 +128,7 @@ export default {
 			},
 			{
 				skillName: "3DS Max",
-				percentage: "50",
+				percentage: "20",
 			},
 		],
 	},
