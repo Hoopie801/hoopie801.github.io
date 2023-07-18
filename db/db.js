@@ -287,7 +287,8 @@ export default {
 	},
 	experience: [
 		{
-			title: "Gameplay Designer",
+			icon: "group",
+			title: "Aradena Battlegrounds",
 			duration: "July 2022 - Present",
 			subtitle: "Gameplayer Designer/Developer at Aradena Battlegrounds",
 			details: [
@@ -323,9 +324,9 @@ export default {
 				"RapidJSON",
 				"Tiled Editor",
 			],
-			icon: "group",
 		},
 		{
+			icon: "group",
 			title: "DB Cargo UK",
 			duration: "June 2020 - June 2021",
 			subtitle: "IT Support and Development Placement",
