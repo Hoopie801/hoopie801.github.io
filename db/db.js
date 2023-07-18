@@ -14,6 +14,14 @@ export default {
 				percentage: "80",
 			},
 			{
+				skillName: "Retention Mechanic Design",
+				percentage: "80",
+			},
+			{
+				skillName: "Production of Trading Cards",
+				percentage: "80",
+			},
+			{
 				skillName: "Online Multiplayer Game Balancing",
 				percentage: "80",
 			},
