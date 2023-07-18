@@ -6,6 +6,10 @@ export default {
 				percentage: "80",
 			},
 			{
+				skillName: "C#",
+				percentage: "80",
+			},
+			{
 				skillName: "VB.NET",
 				percentage: "80",
 			},
@@ -33,10 +37,7 @@ export default {
 				skillName: "PHP",
 				percentage: "50",
 			},
-			{
-				skillName: "C#",
-				percentage: "50",
-			},
+			
 		],
 		engines: [
 			{
@@ -45,7 +46,7 @@ export default {
 			},
 			{
 				skillName: "Unreal",
-				percentage: "50",
+				percentage: "80",
 			},
 			
 		],
@@ -68,7 +69,7 @@ export default {
 			},
 			{
 				skillName: "DX12",
-				percentage: "50",
+				percentage: "80",
 			},
 			
 			
@@ -97,14 +98,22 @@ export default {
 				percentage: "80",
 			},
 			{
-				skillName: "JIRA",
-				percentage: "50",
+				skillName: "Jira",
+				percentage: "80",
 			},
 			
 		],
 		environments: [
 			{
 				skillName: "Visual Studio",
+				percentage: "80",
+			},
+			{
+				skillName: "Metabase",
+				percentage: "80",
+			},
+			{
+				skillName: "Miro",
 				percentage: "80",
 			},
 			{
@@ -135,6 +144,27 @@ export default {
 	},
 	projects: {
 		professional: [
+			{
+				projectName: "Aradena Battlegrounds",
+				image: "images/aradena.jpg",
+				summary:
+				"Aradena is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a warrior, you'll join a faction and battle other players in the medieval fantasy kingdom. Whilst working at Aradena I was a Gameplay Designer crucial to the design and development of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. ",
+				preview: "https://www.youtube.com/watch?v=g34z8a0hdtw&ab_channel=Aradena",
+				techStack: [
+					"Gameplay Design",
+					"Game Design",
+					"Technical Design",
+					"Economics Design",
+					"Game Production",
+					"C#",
+					"Visual Studio",
+					"Unity",
+					"Jira",
+					"Figma",
+					"Metabase",
+					"Miro",
+				],
+			},
 			{
 				projectName: "Labyrinth",
 				image: "images/labyrinth.png",
@@ -176,6 +206,23 @@ export default {
 		],
 		university: [
 			{
+				projectName: "Labyrinthia: Lost Realms",
+				image: "images/labyrinthia.png",
+				summary:
+				"Labyrinthia: Lost Realms is a follow-up from my previous university project - the <b>AWARD WINNING</b> Labyrinth, culminating in a 2D Pixel Art, Soulslike with Roguelike and RPG elements. With countless new maps, enemies. bosses, complete with RPG levelling features, crafting, item upgrading and much much more!",
+				preview: "https://www.youtube.com/watch?v=E1_mmoObxR4&ab_channel=ChaeTaylor",
+				techStack: [
+					"Game Design",
+					"Gameplay Design",
+					"World Design",
+					"Level Design",
+					"Production",
+					"C++",
+					"PS4",
+					"Visual Studio",
+					"RapidJSON",
+					"Tiled Editor",
+				],
 				projectName: "Labyrinth",
 				image: "images/labyrinth.png",
 				summary:
@@ -229,6 +276,29 @@ export default {
 	},
 	experience: [
 		{
+			title: "Gameplay Designer",
+			duration: "July 2022 - Present",
+			subtitle: "Gameplayer Designer/Developer at Aradena Battlegrounds",
+			details: [
+				"At Aradena I am responsible for the design and development of multiple systems and core aspects of the game, ranging from gameplay and economics to production and more. I Led QA and Development in our UK-based team, coming up with creative solutions to problems, technical implementations as well as being an active member in our community - hosting several streams to our discord and twitch channel to promote the game!",			
+			],
+			tags: [
+				"Gameplay Design",
+				"Game Design",
+				"Technical Design",
+				"Economics Design",
+				"Game Production",
+				"C#",
+				"Visual Studio",
+				"Unity",
+				"Jira",
+				"Figma",
+				"Spreadsheets/Excel",
+				"Metabase",
+				"Miro",
+
+			],
+			icon: "group",
 			title: "Steel Minions",
 			duration: "June 2022 - Present",
 			subtitle: "Lead Designer and Developer on Labyrinth",
