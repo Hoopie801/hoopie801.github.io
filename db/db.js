@@ -223,6 +223,19 @@ export default {
 					"RapidJSON",
 					"Tiled Editor",
 				],
+				projectName: "Dissertation Project: An Investigation Into Behaviour Trees and their Impact on Player Experience in Stealth Games",
+				image: "images/uelogo.jpg",
+				summary:
+				"My dissertation project an in-depth investigation into Behaviour Trees in games such as Alien: Isolation and other stealth games, I created my own bespoke behaviour trees using UE5 and then conducted a research study with 20+ participants proving my hypothesis, if you wish to read my dissertation, please contact me using my contact information below!",
+				preview: "https://www.youtube.com/watch?v=6jsP4g_laKw&ab_channel=Josh",
+				techStack: [
+					"Unreal Engine 5",
+					"Behaviour Trees",
+					"UE Blueprints",
+					"C++",
+					"Github",
+
+				],
 				projectName: "Labyrinth",
 				image: "images/labyrinth.png",
 				summary:
@@ -280,7 +293,7 @@ export default {
 			duration: "July 2022 - Present",
 			subtitle: "Gameplayer Designer/Developer at Aradena Battlegrounds",
 			details: [
-				"At Aradena I am responsible for the design and development of multiple systems and core aspects of the game, ranging from gameplay and economics to production and more. I Led QA and Development in our UK-based team, coming up with creative solutions to problems, technical implementations as well as being an active member in our community - hosting several streams to our discord and twitch channel to promote the game!",			
+				"At Aradena I am responsible for the design and development of multiple systems and core aspects of the game, ranging from gameplay and economics to production and more. I also led QA and Development in our UK-based team, coming up with creative solutions to problems, technical implementations as well as being an active member in our community - hosting several streams to our discord and twitch channel to promote the game!",			
 			],
 			tags: [
 				"Gameplay Design",
@@ -300,10 +313,10 @@ export default {
 			],
 			icon: "group",
 			title: "Steel Minions",
-			duration: "June 2022 - Present",
+			duration: "June 2022 - July 2022",
 			subtitle: "Lead Designer and Developer on Labyrinth",
 			details: [
-				"Me and another member of my team from university have been offered an exciting position working part time for a short duration over summer to continue working on our game 'Labyrinth' in order to fully complete the game and work towards finalising a publishable version.",
+				"Me and another member of my team from university were offered an exciting position working part time for a short duration over summer to continue working on our game 'Labyrinth' in order to fully complete the game and work towards finalising a publishable version.",
 			],
 			tags: [
 				"C++",
@@ -338,12 +351,13 @@ export default {
 	],
 	education: [
 		{
-			title: "Masters in Computer Science for Games",
-			duration: "2018 - Present",
+			title: "Masters (MComp) in Computer Science for Games",
+			duration: "2018 - 2023",
 			subtitle: "Sheffield Hallam University, South Yorkshire",
 			details: [
-				"Currently in my 4th year of study, including a 1 year placement.",
-				"So far having completed the following modules:",
+				"During my studies I completed the following modules:",
+				"Advanced Graphics Projects",
+				"Individual Project / Dissertation",
 				"Effective C++ Programming",
 				"Research Based Games Console Projects",
 				"Mathematics for Modelling And Rendering",
