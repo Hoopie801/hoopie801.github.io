@@ -196,7 +196,7 @@ export default {
 				projectName: "Cabin of Creepy Crawlies",
 				image: "images/cabin1pt2.png",
 				summary:
-					"A Game Jam project I took and developed further in my own time. Cabin of Creepy Crawlies is a 16 bit Roguelike puzzle game where you have to navigate the Cabin, whilst simulatneously dodging the various enemies introduced during the levels. A simple premise but provided to be good practice for level design and 2D tile mapping - I am currently still working on this project to further develop my level design skills. For this project I worked on player movement and level design including the layout of the prototype levels for testing to ensure the enemies all provided a new level of difficulty to the game.",
+					"A Game Jam project I took and developed further in my own time. Cabin of Creepy Crawlies is a 16 bit Roguelike puzzle game where you have to navigate the Cabin, whilst simulatneously dodging the various enemies introduced during the levels. A simple premise but provided to be good practice for level design and 2D tile mapping. For this project I worked on player movement and level design including the layout of the prototype levels for testing to ensure the enemies all provided a new level of difficulty to the game.",
 				preview: "",
 				techStack: [
 					"Unity",
