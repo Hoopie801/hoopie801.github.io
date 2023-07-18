@@ -1,5 +1,28 @@
 export default {
 	skills: {
+		design: [
+			{
+				skillName: "Game Design",
+				percentage: "80",
+			},
+			{
+				skillName: "Gameplay Design",
+				percentage: "80",
+			},
+			{
+				skillName: "Trading Card Design",
+				percentage: "80",
+			},
+			{
+				skillName: "Online Multiplayer Game Balancing",
+				percentage: "80",
+			},
+			{
+				skillName: "Economy Design",
+				percentage: "50",
+			},
+			
+		],
 		languages: [
 			{
 				skillName: "C/C++",
@@ -148,7 +171,7 @@ export default {
 				projectName: "Aradena Battlegrounds",
 				image: "images/aradena.jpg",
 				summary:
-				"Aradena is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a warrior, you'll join a faction and battle other players in the medieval fantasy kingdom. Whilst working at Aradena I was a Gameplay Designer crucial to the design and development of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. ",
+				"Aradena is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a warrior, you'll join a faction and battle other players in the medieval fantasy kingdom. Whilst working at Aradena I was a Gameplay Designer crucial to the design and development of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. I create cards and characters to play with, balance the game, innovate new retention mechanics and interesting ways to play, helped develop numerous tooling pipelines as well as help design the core and meta-game loops revolving the purchasing of cards and deckbuilding.",
 				preview: "https://www.youtube.com/watch?v=g34z8a0hdtw&ab_channel=Aradena",
 				techStack: [
 					"Gameplay Design",
