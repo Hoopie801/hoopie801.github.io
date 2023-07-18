@@ -254,7 +254,6 @@ export default {
 				image: "images/temple.png",
 				summary:
 					"My 2nd year university project, Temple of The Sun. I was in charge of Game Design and making sure the group worked together well. We decided to go for a mirrors edge meets tomb raider style with some basic parkour elements and platforming inside of an ancient temple. The game consists of 3 levels, with your time being your score with a fully functioning leaderboard that updates if you complete the game. Level 1 is mainly jumping puzzles without any of the parkour elements. Level 2 requires the player to notice patterns on the floor to save them from their demise along with some wall climbing using the E key and finally, level 3 is a parkour level that consists of wall running, climbing and jumping to get to the end of the game.",
-				preview: "https://youtu.be/8BcEseg0My4",
 				techStack: [
 					"C#",
 					"Unity",
@@ -266,7 +265,6 @@ export default {
 				image: "images/brumbrum.png",
 				summary:
 					"This is a group university project called Brum Brum. Our goal was a top down vehicular shooter, we were advised to create a space invaders clone but I didn’t want to settle for that so I lead my team into designing a post apocalyptic top down racing game with shooter elements. We were inspired by Micro Machines and the Mad Max franchise to create the look and feel for our game. The player controls the car by aiming where they would like the car to go with the cursor, they can click to shoot enemy vehicles – killing these takes time off the clock so you can achieve a better score! The small enemy cars keep respawning until lap 2, where a hovering boss truck spawns and the player can eventually kill this boss too – granting a much greater time reduction. The enemies can deploy barrels to slow down the player and we have a catch-up mechanic implemented so they don’t just race off. During production of our game, I worked on the camera and player controls including; driving, shooting and interacting with the environment. ",
-				preview: "https://youtu.be/8BcEseg0My4",
 				techStack: [
 					"C#",
 					"Unity",
