@@ -223,6 +223,8 @@ export default {
 					"RapidJSON",
 					"Tiled Editor",
 				],
+			},
+			{
 				projectName: "Dissertation Project: An Investigation Into Behaviour Trees and their Impact on Player Experience in Stealth Games",
 				image: "images/uelogo.jpg",
 				summary:
@@ -236,6 +238,8 @@ export default {
 					"Github",
 
 				],
+			},
+			{
 				projectName: "Labyrinth",
 				image: "images/labyrinth.png",
 				summary:
@@ -310,6 +314,8 @@ export default {
 				"Miro",
 
 			],
+		},
+		{
 			icon: "group",
 			title: "Steel Minions",
 			duration: "June 2022 - July 2022",
