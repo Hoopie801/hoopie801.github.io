@@ -344,7 +344,7 @@ export default {
 			duration: "July 2022 - Present",
 			subtitle: "Gameplayer Designer/Developer at Aradena Battlegrounds",
 			details: [
-				"At Aradena I am responsible for the design and development of multiple systems and core aspects of the game, ranging from gameplay and economics to production and more. I also led QA and Development in our UK-based team, coming up with creative solutions to problems, technical implementations as well as being an active member in our community - hosting several streams to our discord and twitch channel to promote the game!",			
+				"Aradena Battlegrounds, is a F2P Trading Card Game / Hex Battler. I am responsible for; Design, Aiding in Production, communicating with management and other company leaders, managing QA, Narrative and parts of Development. Gameplay, economics and systems design are a part of my responsibilities and managing other team members as well as myself were all routine day-to-day responsibilities. I was also an active member in our community - hosting several streams to our discord and twitch channel to promote the game!",			
 			],
 			tags: [
 				"Gameplay Design",
@@ -360,16 +360,15 @@ export default {
 				"Spreadsheets/Excel",
 				"Metabase",
 				"Miro",
-
 			],
 		},
 		{
 			icon: "group",
-			title: "Steel Minions",
-			duration: "June 2022 - July 2022",
-			subtitle: "Lead Designer and Developer on Labyrinth",
+			title: "Steel Minions / Sheffield Hallam University",
+			duration: "June 2022 - Present",
+			subtitle: "Lead Designer and Project Manager on Labyrinth/Labyrinthia",
 			details: [
-				"Me and another member of my team from university were offered an exciting position working part time for a short duration over summer to continue working on our game 'Labyrinth' in order to fully complete the game and work towards finalising a publishable version.",
+				"Myself and a fellow team member from university were offered an exciting position working part time for a short duration over summer 2022 to continue working on our game 'Labyrinth' in order to work towards a fully completed game and finalising a publishable version to be available on the playstation store. This developed into the previously mentioned “Labyrinthia: Lost Realms” a Pixel Art 2D Souls-like RPG set for Q1 2024 release being developed as a side/passion project.",
 			],
 			tags: [
 				"C++",
@@ -386,7 +385,6 @@ export default {
 			subtitle: "IT Support and Development Placement",
 			details: [
 				"Provided day to day second line support for internally developed and third-party products. Worked extremely closely with the technical support group that find better and more efficient ways of working - an example is that I created some automated tasks using DB Cargo's orchestrator software that was saving them a large amount of money per anum. Interpreted user stories in the Team Foundation Server and evolve these into solid problem understanding in order to implement software functionality and bug fixes. Managed SQL server databases and developed reports using SSRS. I also finished development on a large scale database front-end project that was being created year on year by numerous placement students before me, this involved getting used to large scale codebases as well as modifying and adapting previous code created by previous placement students. I worked collaboratively on this project with another placement student and we finished all of the requirements set in record time before leaving our positions, this piece of software is now being used by the company routinely.",
-				
 			],
 			tags: [
 				"SQL",
@@ -410,7 +408,7 @@ export default {
 			details: [
 				"During my studies I completed the following modules:",
 				"Advanced Graphics Projects",
-				"Individual Project / Dissertation",
+				"Individual Project / Dissertation in Advanced Behaviour Trees",
 				"Effective C++ Programming",
 				"Research Based Games Console Projects",
 				"Mathematics for Modelling And Rendering",
