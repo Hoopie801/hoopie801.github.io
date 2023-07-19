@@ -84,35 +84,43 @@ export default {
 		],
 		backend: [
 			{
-				skillName: "Gameplay Design",
+				skillName: "Gameplay",
 				percentage: "80",
 			},
 			{
-				skillName: "Narrative Design",
+				skillName: "Narrative",
 				percentage: "80",
 			},
 			{
-				skillName: "Trading Card Design",
+				skillName: "TCG Design",
 				percentage: "80",
 			},
 			{
-				skillName: "Trading Card Production",
+				skillName: "TCG Production",
 				percentage: "80",
 			},
 			{
-				skillName: "Level/World Design",
+				skillName: "QA",
+				percentage: "80",
+			},
+			{
+				skillName: "Level Design",
+				percentage: "80",
+			},
+			{
+				skillName: "World Design",
 				percentage: "50",
 			},
 			{
-				skillName: "Multiplayer Game Balance",
+				skillName: "Game Balance",
 				percentage: "50",
 			},
 			{
-				skillName: "Player Retention Design",
+				skillName: "Player Retention",
 				percentage: "50",
 			},
 			{
-				skillName: "Economy Design",
+				skillName: "Economy",
 				percentage: "50",
 			},
 		],
