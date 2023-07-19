@@ -95,10 +95,7 @@ export default {
 				skillName: "Narrative Design/Management",
 				percentage: "80",
 			},
-			{
-				skillName: "Retention Mechanic Design",
-				percentage: "80",
-			},
+			
 			{
 				skillName: "Trading Card Design",
 				percentage: "80",
@@ -109,6 +106,10 @@ export default {
 			},
 			{
 				skillName: "Online Multiplayer Game Balancing",
+				percentage: "50",
+			},
+			{
+				skillName: "Player Retention Design",
 				percentage: "50",
 			},
 			{
