@@ -88,7 +88,7 @@ export default {
 				percentage: "80",
 			},
 			{
-				skillName: "Narrative Design/Management",
+				skillName: "Narrative Design",
 				percentage: "80",
 			},
 			{
