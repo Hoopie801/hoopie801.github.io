@@ -250,7 +250,7 @@ export default {
 				image: "images/labrinythia.png",
 				summary:
 				"Labyrinthia: Lost Realms is a follow-up from my previous university project - the <b>AWARD WINNING</b> Labyrinth, culminating in a 2D Pixel Art, Soulslike with Roguelike and RPG elements. With countless new maps, enemies. bosses, complete with RPG levelling features, crafting, item upgrading and much much more!",
-				preview: "https://www.youtube.com/watch?v=E1_mmoObxR4&ab_channel=ChaeTaylor",
+				preview: "https://youtu.be/N6892pSsgTQ",
 				techStack: [
 					"Game Design",
 					"Gameplay Design",
