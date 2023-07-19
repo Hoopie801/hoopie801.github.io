@@ -91,7 +91,6 @@ export default {
 				skillName: "Narrative Design/Management",
 				percentage: "80",
 			},
-			
 			{
 				skillName: "Trading Card Design",
 				percentage: "80",
