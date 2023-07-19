@@ -105,6 +105,10 @@ export default {
 				percentage: "80",
 			},
 			{
+				skillName: "Level/World Design",
+				percentage: "50",
+			},
+			{
 				skillName: "Online Multiplayer Game Balancing",
 				percentage: "50",
 			},
@@ -151,6 +155,10 @@ export default {
 			},
 			{
 				skillName: "VS Code",
+				percentage: "80",
+			},
+			{
+				skillName: "Tiled Level Editor",
 				percentage: "80",
 			},
 			{
