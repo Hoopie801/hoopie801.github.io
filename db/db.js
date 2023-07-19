@@ -1,34 +1,7 @@
 export default {
 	skills: {
 		design: [
-			{
-				skillName: "Game Design",
-				percentage: "80",
-			},
-			{
-				skillName: "Gameplay Design",
-				percentage: "80",
-			},
-			{
-				skillName: "Trading Card Design",
-				percentage: "80",
-			},
-			{
-				skillName: "Retention Mechanic Design",
-				percentage: "80",
-			},
-			{
-				skillName: "Production of Trading Cards",
-				percentage: "80",
-			},
-			{
-				skillName: "Online Multiplayer Game Balancing",
-				percentage: "80",
-			},
-			{
-				skillName: "Economy Design",
-				percentage: "50",
-			},
+			
 			
 		],
 		languages: [
@@ -54,6 +27,14 @@ export default {
 			},
 			{
 				skillName: "JavaScript",
+				percentage: "80",
+			},
+			{
+				skillName: "SQL",
+				percentage: "80",
+			},
+			{
+				skillName: "CMD",
 				percentage: "80",
 			},
 			{
@@ -106,13 +87,34 @@ export default {
 			
 		],
 		backend: [
+			
 			{
-				skillName: "SQL",
+				skillName: "Game Design",
 				percentage: "80",
 			},
 			{
-				skillName: "CMD",
+				skillName: "Gameplay Design",
 				percentage: "80",
+			},
+			{
+				skillName: "Trading Card Design",
+				percentage: "80",
+			},
+			{
+				skillName: "Retention Mechanic Design",
+				percentage: "80",
+			},
+			{
+				skillName: "Production of Trading Cards",
+				percentage: "80",
+			},
+			{
+				skillName: "Online Multiplayer Game Balancing",
+				percentage: "80",
+			},
+			{
+				skillName: "Economy Design",
+				percentage: "50",
 			},
 		],
 		versionControl: [
