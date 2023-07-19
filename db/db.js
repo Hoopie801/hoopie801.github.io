@@ -104,7 +104,7 @@ export default {
 				percentage: "50",
 			},
 			{
-				skillName: "Online Multiplayer Game Balancing",
+				skillName: "Multiplayer Game Balance",
 				percentage: "50",
 			},
 			{
