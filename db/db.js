@@ -141,6 +141,10 @@ export default {
 				percentage: "80",
 			},
 			{
+				skillName: "Google Sheets/Microsoft Excel",
+				percentage: "80",
+			},
+			{
 				skillName: "Metabase",
 				percentage: "80",
 			},
