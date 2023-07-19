@@ -87,17 +87,12 @@ export default {
 			
 		],
 		backend: [
-			
-			{
-				skillName: "Game Design",
-				percentage: "80",
-			},
 			{
 				skillName: "Gameplay Design",
 				percentage: "80",
 			},
 			{
-				skillName: "Trading Card Design",
+				skillName: "Narrative Design/Management",
 				percentage: "80",
 			},
 			{
@@ -105,12 +100,16 @@ export default {
 				percentage: "80",
 			},
 			{
-				skillName: "Production of Trading Cards",
+				skillName: "Trading Card Design",
+				percentage: "80",
+			},
+			{
+				skillName: "Trading Card Production",
 				percentage: "80",
 			},
 			{
 				skillName: "Online Multiplayer Game Balancing",
-				percentage: "80",
+				percentage: "50",
 			},
 			{
 				skillName: "Economy Design",
