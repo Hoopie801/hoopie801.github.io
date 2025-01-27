@@ -113,7 +113,7 @@ export default {
 			},
 			{
 				skillName: "Game Balance",
-				percentage: "50",
+				percentage: "80",
 			},
 			{
 				skillName: "Player Retention",
@@ -193,11 +193,11 @@ export default {
 	projects: {
 		professional: [
 			{
-				projectName: "Aradena Battlegrounds",
-				image: "images/aradena.jpg",
+				projectName: "Everdawn: Champions",
+				image: "images/everdawnchampions.png",
 				summary:
-				"Aradena is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a warrior, you'll join a faction and battle other players in the medieval fantasy kingdom. Whilst working at Aradena I was a Gameplay Designer crucial to the design and development of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. I create cards and characters to play with, balance the game, innovate new retention mechanics and interesting ways to play, helped develop numerous tooling pipelines as well as help design the core and meta-game loops revolving the purchasing of cards and deckbuilding.",
-				preview: "https://www.youtube.com/watch?v=g34z8a0hdtw&ab_channel=Aradena",
+				"Everdawn: Champions is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a Champion, you'll join a faction and battle other players in the medieval fantasy kingdom. On Everdawn, I am a Technical Designer crucial to the design and development of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. I create cards and characters to play with, balance the game, innovate new retention mechanics and interesting ways to play, helped develop numerous tooling pipelines as well as help design the core and meta-game loops revolving the purchasing of cards and deckbuilding.",
+				preview: "https://www.youtube.com/watch?v=N7chkA4TsO4",
 				techStack: [
 					"Gameplay Design",
 					"Game Design",
@@ -340,11 +340,11 @@ export default {
 	experience: [
 		{
 			icon: "group",
-			title: "Aradena Battlegrounds",
+			title: "Everdawn Champions",
 			duration: "July 2022 - Present",
-			subtitle: "Gameplayer Designer/Developer at Aradena Battlegrounds",
+			subtitle: "Technical Designer for Everdawn: Champions and Lead Designer for Billionaire's Path",
 			details: [
-				"Aradena Battlegrounds, is a F2P Trading Card Game / Hex Battler. I am responsible for; Design, Aiding in Production, communicating with management and other company leaders, managing QA, Narrative and parts of Development. Gameplay, economics and systems design are a part of my responsibilities and managing other team members as well as myself were all routine day-to-day responsibilities. I was also an active member in our community - hosting several streams to our discord and twitch channel to promote the game!",			
+				"Everdawn: Champions, is a F2P Trading Card Game / Hex Battler. I am responsible for; Game/Card Design, Development and Implementation, communicating with management and other company leaders, managing QA, Narrative and parts of Development. Gameplay, economics and systems design are a part of my responsibilities and managing other team members as well as myself were all routine day-to-day responsibilities. I was also an active member in our community - hosting several streams to our discord and twitch channel to promote the game! Billionaire's Path is a mobile tapper game based inside of Telegram developed in Unity and has reached over 500k Monthly Active Users, as Lead Designer I oversaw its creation and deployment as well as routine updates since it's launch.",			
 			],
 			tags: [
 				"Gameplay Design",
