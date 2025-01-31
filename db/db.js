@@ -196,7 +196,7 @@ export default {
 				projectName: "Everdawn: Champions",
 				image: "images/everdawnchampions.png",
 				summary:
-				"Everdawn: Champions is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a Champion, you'll join a faction and battle other players in the medieval fantasy kingdom. On Everdawn, I am a Technical Designer crucial to the design and development of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. I create cards and characters to play with, balance the game, innovate new retention mechanics and interesting ways to play, helped develop numerous tooling pipelines as well as help design the core and meta-game loops revolving the purchasing of cards and deckbuilding.",
+				"Everdawn: Champions is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a Champion, you'll join a faction and battle other players in a medieval fantasy kingdom. On Everdawn, I am a Technical Designer crucial to the design and development of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. I create cards and characters to play with, balance the game, innovate new retention mechanics and interesting ways to play, helped develop numerous tooling pipelines as well as help design the core and meta-game loops revolving the purchasing of cards and deckbuilding.",
 				preview: "https://www.youtube.com/watch?v=N7chkA4TsO4",
 				techStack: [
 					"Gameplay Design",
@@ -210,6 +210,24 @@ export default {
 					"Jira",
 					"Figma",
 					"Metabase",
+					"Miro",
+				],
+			},
+			{
+				projectName: "Billionaire's Path",
+				image: "images/BP.jpg",
+				summary:
+				"Billionaire's Path is a Unity Game integrated into Telegram that gives a unique spin on the auto-tapper genre with new additions like a Speedometer and a fully functional stock chart based on how much money you're making that updates in real time as you tap. I was the Lead Designer and Prototype Engineer for Billionaire's Path overseeing its development, launch and support to over 500k monthly active users within its first few weeks.",
+				techStack: [
+					"Game Design",
+					"Telegram Applications and Games",
+					"Technical Design",
+					"Economics Design",
+					"Game Production",
+					"C#",
+					"Visual Studio",
+					"Unity",
+					"Jira",
 					"Miro",
 				],
 			},
