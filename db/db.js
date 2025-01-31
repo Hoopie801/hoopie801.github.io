@@ -217,7 +217,7 @@ export default {
 				projectName: "Billionaire's Path",
 				image: "images/BP.jpg",
 				summary:
-				"Billionaire's Path is a Unity Game integrated into Telegram that gives a unique spin on the auto-tapper genre with new additions like a Speedometer and a fully functional stock chart based on how much money you're making that updates in real time as you tap. I was the Lead Designer and Prototype Engineer for Billionaire's Path overseeing its development, launch and support to over 500k monthly active users within its first few weeks.",
+				"Billionaire's Path is a Unity Game integrated into Telegram that gives a unique spin on the auto-tapper genre with new additions like a Speedometer and a fully functional stock chart based on how much money you're making that updates in real time as you tap. I was the Lead Designer and Prototype Engineer for Billionaire's Path overseeing its development, launch and support to over <b>500k monthly active users</b> within its first few weeks.",
 				preview: "",
 				techStack: [
 					"Game Design",
