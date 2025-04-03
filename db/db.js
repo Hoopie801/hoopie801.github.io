@@ -196,7 +196,7 @@ export default {
 				projectName: "Everdawn: Champions",
 				image: "images/everdawnchampions.png",
 				summary:
-				"Everdawn: Champions is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a Champion, you'll join a faction and battle other players in a medieval fantasy kingdom. On Everdawn, I am a Technical Designer crucial to the design and development of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. I create cards and characters to play with, balance the game, innovate new retention mechanics and interesting ways to play, helped develop numerous tooling pipelines as well as help design the core and meta-game loops revolving the purchasing of cards and deckbuilding.",
+				"Everdawn: Champions is a free-to-play, Tactical TCG where collectable cards come to life in strategic, 3D gameplay. As a Champion, you'll join a faction and battle other players in a medieval fantasy kingdom. On Everdawn, I am the Lead Designer and Developer crucial to the creation and management of multiple systems and core aspects of the game, ranging from gameplay, to economics, to production and more. I create cards and characters to play with, balance the game, innovate new retention mechanics and interesting ways to play, helped develop numerous tooling pipelines as well as help design the core and meta-game loops revolving the purchasing of cards and deckbuilding.",
 				preview: "https://www.youtube.com/watch?v=N7chkA4TsO4",
 				techStack: [
 					"Gameplay Design",
