@@ -193,6 +193,22 @@ export default {
 	projects: {
 		professional: [
 			{
+				projectName: "Project Boron",
+				image: "",
+				summary:
+				"Project Boron is an unannounced survival horror game utilising UE5 with a focus on intelligent AI and behaviour trees with branching narratives.",
+				preview: "",
+				techStack: [
+					"Gameplay Design",
+					"Game Design",
+					"Technical Design",
+					"Game Production",
+					"C++",
+					"Visual Studio",
+					"Unreal",
+				],
+			},
+			{
 				projectName: "Everdawn: Champions",
 				image: "images/everdawnchampions.png",
 				summary:
