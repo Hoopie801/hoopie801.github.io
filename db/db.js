@@ -194,7 +194,7 @@ export default {
 		professional: [
 			{
 				projectName: "Project Boron",
-				image: "",
+				image: "images/ue5.png",
 				summary:
 				"Project Boron is an unannounced survival horror game utilising UE5 with a focus on intelligent AI and behaviour trees with branching narratives.",
 				preview: "",
