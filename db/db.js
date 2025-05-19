@@ -199,7 +199,8 @@ export default {
 				"Project Boron is an unannounced survival horror game utilising UE5 with a focus on intelligent AI and behaviour trees with branching narratives.",
 				preview: "",
 				techStack: [
-					"Gameplay Design",
+					"Gameplay Programming",
+					"UI Programming",
 					"Game Design",
 					"Technical Design",
 					"Game Production",
