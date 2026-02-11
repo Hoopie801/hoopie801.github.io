@@ -200,7 +200,7 @@ export default {
 				preview: "",
 				techStack: [
 					"Gameplay Programming",
-					"UI Programming",
+					"AI Programming",
 					"Game Design",
 					"Technical Design",
 					"Game Production",
@@ -376,8 +376,31 @@ export default {
 	experience: [
 		{
 			icon: "group",
+			title: "Project Boron",
+			duration: "March 2025 - Present",
+			subtitle: "Lead/Sole Programmer and Game Designer",
+			details: [
+				"Project Boron is an unannounced survival horror game utilising UE5 with a focus on intelligent AI and behaviour trees with branching narratives. I am responsible for programming all of the game within blueprints and C++, I am also responsible for the creation of multiple different NPCs all controlled by FSMs and Behaviour Trees that all seamlessly integrate with the animation blueprints to create a fully believable AI character.",			
+			],
+			tags: [
+				"Gameplay Programming",
+				"Game Design",
+				"Game Production",
+				"C++",
+				"Visual Studio",
+				"Unreal",
+				"Perforce",
+				"Spreadsheets/Excel",
+				"Miro",
+				"Behaviour Trees",
+				"AI",
+				"Blueprints",
+			],
+		},
+		{
+			icon: "group",
 			title: "Everdawn Champions",
-			duration: "July 2022 - Present",
+			duration: "July 2022 - April 2025",
 			subtitle: "Technical Designer for Everdawn: Champions and Lead Designer for Billionaire's Path",
 			details: [
 				"Everdawn: Champions, is a F2P Trading Card Game / Hex Battler. I am responsible for; Game/Card Design, Development and Implementation, communicating with management and other company leaders, managing QA, Narrative and parts of Development. Gameplay, economics and systems design are a part of my responsibilities and managing other team members as well as myself were all routine day-to-day responsibilities. I was also an active member in our community - hosting several streams to our discord and twitch channel to promote the game! Billionaire's Path is a mobile tapper game based inside of Telegram developed in Unity and has reached over 500k Monthly Active Users, as Lead Designer I oversaw its creation and deployment as well as routine updates since it's launch.",			
@@ -400,11 +423,11 @@ export default {
 		},
 		{
 			icon: "group",
-			title: "Steel Minions / Sheffield Hallam University",
-			duration: "June 2022 - Present",
+			title: "Steel Minions / Sheffield Hallam University / Personal",
+			duration: "June 2022 - Present(Personal Project)",
 			subtitle: "Lead Designer and Project Manager on Labyrinth/Labyrinthia",
 			details: [
-				"Myself and a fellow team member from university were offered an exciting position working part time for a short duration over summer 2022 to continue working on our game 'Labyrinth' in order to work towards a fully completed game and finalising a publishable version to be available on the playstation store. This developed into the previously mentioned “Labyrinthia: Lost Realms” a Pixel Art 2D Souls-like RPG set for Q1 2024 release being developed as a side/passion project.",
+				"Myself and a fellow team member from university were offered an exciting position working part time for a short duration over summer 2022 to continue working on our game 'Labyrinth' in order to work towards a fully completed game and finalising a publishable version to be available on the playstation store. This developed into the previously mentioned “Labyrinthia: Lost Realms” a Pixel Art 2D Souls-like RPG set for a future release being developed as a side/passion project.",
 			],
 			tags: [
 				"C++",
