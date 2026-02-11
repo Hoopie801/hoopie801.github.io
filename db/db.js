@@ -404,7 +404,7 @@ export default {
 			icon: "group",
 			title: "Everdawn Champions",
 			duration: "July 2022 - March 2025",
-			subtitle: "Technical Designer for Everdawn: Champions and Lead Designer for Billionaire's Path",
+			subtitle: "Lead Developer and Lead Designer for Everdawn: Champions and Lead Designer for Billionaire's Path",
 			details: [
 				"Everdawn: Champions, is a F2P Trading Card Game / Hex Battler. I was responsible for; Game/Card Design, Development and Implementation, communicating with management and other company leaders, managing QA, Narrative and parts of Development. Gameplay, economics and systems design were a part of my responsibilities and managing other team members as well as myself were all routine day-to-day responsibilities. I was also an active member in our community - hosting several streams to our discord and twitch channel to promote the game! Billionaire's Path is a mobile tapper game based inside of Telegram developed in Unity and has reached over 500k Monthly Active Users, as Lead Designer I oversaw its creation and deployment as well as routine updates since it's launch.",			
 			],
