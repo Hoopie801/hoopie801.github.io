@@ -379,9 +379,30 @@ export default {
 	experience: [
 		{
 			icon: "group",
+			title: "Tales of Aesor",
+			duration: "April 2025 - Present",
+			subtitle: "Senior Game Designer and Developer",
+			details: [
+				"Tales of Aesor is a hybrid game combining the excellent strategic combat of Baldur's Gate 3 with roguelike elements of games like slay the spire. I'm the lead designer for gameplay and systems, using my breadth of knowledge from past projects and playing games. I'm responsible for implementing prototypes of my designs into the game, collaborating with the Lead Developer to go from Design to Prototype to Final Implementation smoothly.",			
+			],
+			tags: [
+				"Gameplay Programming",
+				"Game Design",
+				"Systems Design",
+				"Multiplayer Design",
+				"C#",
+				"Visual Studio",
+				"Unity",
+				"Jira",
+				"Spreadsheets/Excel",
+				"Miro",
+			],
+		},
+		{
+			icon: "group",
 			title: "Project Boron",
 			duration: "March 2025 - Present",
-			subtitle: "Lead/Sole Programmer and Game Designer",
+			subtitle: "Lead Programmer and Game Designer",
 			details: [
 				"Project Boron is an unannounced survival horror game utilising UE5 with a focus on intelligent AI and behaviour trees with branching narratives. I am responsible for programming all of the game within blueprints and C++, I am also responsible for the creation of multiple different NPCs all controlled by FSMs and Behaviour Trees that all seamlessly integrate with the animation blueprints to create a fully believable AI character.",			
 			],
