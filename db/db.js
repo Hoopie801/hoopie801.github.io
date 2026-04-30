@@ -196,6 +196,23 @@ export default {
 	projects: {
 		professional: [
 			{
+				projectName: "Tales of Aesor",
+				image: "images/unitylogo.jpg",
+				summary:
+				"Tales of Aesor is a co-op turn based strategy roguelike game inspired by Baldurs Gate 3 and Slay the Spire.",
+				preview: "",
+				techStack: [
+					"Gameplay Programming",
+					"Meta Game Design",
+					"Core Game Design",
+					"Technical Design",
+					"System Design",
+					"C#",
+					"Visual Studio",
+					"Unity",
+				],
+			},
+			{
 				projectName: "Project Boron",
 				image: "images/ue5.png",
 				summary:
